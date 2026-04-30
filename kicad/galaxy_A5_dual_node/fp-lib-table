@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "galaxy_a5_node")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+)

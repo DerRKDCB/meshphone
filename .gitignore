@@ -1,0 +1,53 @@
+# KiCad
+*.bak
+*.bak
+*-cache.lib
+*-cache.lib
+*.kicad_pcb-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_sch-bak
+*.kicad_sym-bak
+*.kicad_sym-bak
+*.tmp
+*.tmp
+fp-info-cache
+fp-lib-table
+sym-lib-table
+*.kicad_dru
+*.kicad_wks
+!kicad/galaxy_A5_dual_node/gerber.zip
+*.zip
+*.bak
+*.backup
+*.bck
+*.log
+*.pyc
+__pycache__/
+*.swp
+*.swo
+*~
+*.kicad_prl
+*.kicad_workspace
+
+# FreeCAD
+*.FCStd-bak
+*.FCStd1
+*.FCStd2
+*.backup
+#FreeCAD#*
+*.swp
+*~
+.RecentDocuments
+config.cfg
+config.bak
+
+# Firmware
+firmware/
+
+# DrawIO
+*.drawio.bkp
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -14,6 +14,7 @@
 fp-info-cache
 fp-lib-table
 sym-lib-table
+.history/
 *.kicad_dru
 *.kicad_wks
 !kicad/galaxy_A5_dual_node/gerber.zip

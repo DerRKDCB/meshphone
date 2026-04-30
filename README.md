@@ -71,10 +71,8 @@ When switching on either node, the hub disconnects and reconnects completely, ma
 ## Documentation
 
 - [Component references and links](notes.md)
-- [Block diagram](galaxy_a5_dual_node_block_diagram.drawio)
-- [KiCad PCB files](kicad/)
+- [KiCad PCB files](kicad/galaxy_A5_dual_node/)
 - [FreeCAD 3D models](freecad/)
-- [Firmware](firmware/)
 
 ## Final Thoughts
 
